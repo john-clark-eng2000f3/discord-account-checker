@@ -16,4 +16,4 @@ python checker.py --tokens-file ~/.discord_tokens.txt
 
 Tokens are read one per line, blank lines and lines starting with # are skipped.
 
-<!-- refreshed: 2026-10-08 -->
+<!-- refreshed: 2026-10-09 -->
